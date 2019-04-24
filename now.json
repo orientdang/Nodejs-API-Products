@@ -1,7 +1,1 @@
-{
-    "version": 2,
-    "name": "nodejs-api-product",
-    "builds": [
-        { "src": "**/*.js", "use": "@now/node" }
-    ]
-}
+{}
